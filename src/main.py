@@ -1,5 +1,3 @@
-import psycopg2
-
 from src import utils
 from src.config import Config
 from src.service import emailService
