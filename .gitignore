@@ -1,0 +1,8 @@
+.env
+.idea/
+venv
+.venv/
+_venv
+__pycache__
+.iml
+/site-packages/
